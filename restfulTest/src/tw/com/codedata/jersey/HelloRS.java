@@ -22,7 +22,7 @@ public class HelloRS {
 
 	@GET
 	public String sayHelloWorld() {
-		///asdfsafsadfds
+		///中文有什麼問題???
 		return "Hello world";
 	}
 
