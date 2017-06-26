@@ -13,6 +13,6 @@ public class MyBean {
 
 	@PathParam("id")
 	public void setResourceId(String id) {
-		//@@@@再測試中文一遍```11
+		//@@@@再測試中文一遍```11asfsdafsadf
 	}
 }
