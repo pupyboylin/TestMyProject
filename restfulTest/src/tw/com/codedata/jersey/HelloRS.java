@@ -22,7 +22,7 @@ public class HelloRS {
 
 	@GET
 	public String sayHelloWorld() {
-		///改成utf-81111111111111111
+		///改成utf-8
 		return "Hello world";
 	}
 
