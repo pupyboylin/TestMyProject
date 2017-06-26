@@ -22,7 +22,7 @@ public class HelloRS {
 
 	@GET
 	public String sayHelloWorld() {
-		///¤¤¤å¦³¤°»ò°İÃD???
+		///æ”¹æˆutf-8
 		return "Hello world";
 	}
 

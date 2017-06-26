@@ -13,6 +13,6 @@ public class MyBean {
 
 	@PathParam("id")
 	public void setResourceId(String id) {
-		//@@@@¤]¥i¥H°Õ
+		//@@@@å†æ¸¬è©¦ä¸­æ–‡ä¸€é
 	}
 }
